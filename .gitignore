@@ -1,0 +1,53 @@
+# -----------------------------
+# VSCode
+.vscode/
+
+# -----------------------------
+# C/C++ compilados
+*.exe
+*.o
+*.obj
+*.out
+
+# -----------------------------
+# Java compilados
+*.class
+*.jar
+
+# -----------------------------
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv
+venv/
+ENV/
+env/
+pip-log.txt
+.pytest_cache/
+
+# -----------------------------
+# Arquivos temporários / logs
+*.log
+*.tmp
+*.swp
+*~
+
+# -----------------------------
+# Sistema
+.DS_Store       # Mac
+Thumbs.db       # Windows
+
+# -----------------------------
+# Backup e arquivos ocultos
+*.bak
+*.old
+*.orig
+*.save
