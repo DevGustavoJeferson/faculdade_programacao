@@ -16,6 +16,7 @@
 - Executar: `./tabuada_manual`
 
 ## Saída esperada:
+```
 2
 4
 6
@@ -25,6 +26,7 @@
 14
 16
 18
+```
 
 ```bash
 gcc tabuada_manual.c -o tabuada_manual

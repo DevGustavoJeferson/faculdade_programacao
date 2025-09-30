@@ -22,6 +22,7 @@
 - Executar: `./tabuada_automatizada`;
 
 ##Saída esperada:
+```
 2
 4
 6
@@ -31,3 +32,4 @@
 14
 16
 18
+```
