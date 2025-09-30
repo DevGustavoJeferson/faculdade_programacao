@@ -11,10 +11,10 @@
 - A estrutura seguirá as disciplinas do curso;
 - A cada disciplina uma nova linguagem;
 - As pastas dentro das 'disciplinas', são os projetos e exercicios relacionados;
-
+```
 /faculdade_programacao
     └─ disciplina_algoritmo
         └─ projetos (C) + README
             └─ arquivos + README
-
+```
 Obs.: Cada pasta de disciplina terá seus projetos e exercícios, podendo evoluir ao longo do curso.
