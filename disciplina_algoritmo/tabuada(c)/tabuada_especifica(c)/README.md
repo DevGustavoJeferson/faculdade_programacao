@@ -20,6 +20,7 @@
 - Executar: `./tabuada_especifica`
 
 # Saída esperada
+```
 Tabuada de qual numero: 5
 5 X 1 = 5
 5 X 2 = 10
@@ -30,6 +31,7 @@ Tabuada de qual numero: 5
 5 X 7 = 35
 5 X 8 = 40
 5 X 9 = 45
+```
 
 ```bash
 gcc tabuada_especifica.c -o tabuada_especifica
