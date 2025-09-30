@@ -1,4 +1,4 @@
-# tabuada_especifica
+# tabuada_especifica(c)
 
 # Objetivo
 - Comparar com `tabuada_manual` e `tabuada_automatizada`;
