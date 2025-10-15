@@ -18,4 +18,4 @@
             └─ arquivos + README
 ```
 Obs.: Cada pasta de disciplina terá seus projetos e exercícios, podendo evoluir ao longo do curso.
-Obs.: A pasta `arquivos-brutos` contem arquivos a serem organuizados.
+Obs.: A pasta `arquivos-brutos` contem arquivos a serem organizados.
