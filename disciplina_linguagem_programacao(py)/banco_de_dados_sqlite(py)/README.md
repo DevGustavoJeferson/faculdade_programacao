@@ -13,5 +13,5 @@
 ## DML
 
 - [Inserir](2-inserir/to_insert.py) dados
-- [Relatorio](4-relatorio/report.py)
+- [Relatorio](4-relatorio/report.py) dos dados
 - [Apagar](5-apagar/to_delete.py) alguma informação
