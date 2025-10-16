@@ -12,6 +12,6 @@
 
 ## DML
 
--[Inserir](2-inserir/to_insert.py) dados
--[Relatorio](4-relatorio/report.py)
--[Apagar](5-apagar/to_delete.py) alguma informação
+- [Inserir](2-inserir/to_insert.py) dados
+- [Relatorio](4-relatorio/report.py)
+- [Apagar](5-apagar/to_delete.py) alguma informação
